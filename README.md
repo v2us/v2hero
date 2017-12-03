@@ -51,4 +51,4 @@ Heroku
 https://devcenter.heroku.com/articles/container-registry-and-runtime
 
 Travis-CI
-https://docs.travis-ci.com/user/docker
+https://docs.travis-ci.com/user/docker/
